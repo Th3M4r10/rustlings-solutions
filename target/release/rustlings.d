@@ -1,0 +1,1 @@
+/home/m4r10/Desktop/rustlings/target/release/rustlings: /home/m4r10/Desktop/rustlings/src/exercise.rs /home/m4r10/Desktop/rustlings/src/main.rs /home/m4r10/Desktop/rustlings/src/project.rs /home/m4r10/Desktop/rustlings/src/run.rs /home/m4r10/Desktop/rustlings/src/ui.rs /home/m4r10/Desktop/rustlings/src/verify.rs

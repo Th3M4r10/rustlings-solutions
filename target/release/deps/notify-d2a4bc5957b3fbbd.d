@@ -1,0 +1,12 @@
+/home/m4r10/Desktop/rustlings/target/release/deps/libnotify-d2a4bc5957b3fbbd.rmeta: /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/lib.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/inotify.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/null.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/poll.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/mod.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/timer.rs
+
+/home/m4r10/Desktop/rustlings/target/release/deps/libnotify-d2a4bc5957b3fbbd.rlib: /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/lib.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/inotify.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/null.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/poll.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/mod.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/timer.rs
+
+/home/m4r10/Desktop/rustlings/target/release/deps/notify-d2a4bc5957b3fbbd.d: /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/lib.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/inotify.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/null.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/poll.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/mod.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/timer.rs
+
+/home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/lib.rs:
+/home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/inotify.rs:
+/home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/null.rs:
+/home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/poll.rs:
+/home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/mod.rs:
+/home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/timer.rs:

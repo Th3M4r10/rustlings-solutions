@@ -1,0 +1,12 @@
+/home/m4r10/Desktop/rustlings/target/debug/deps/libfloat_cmp-9e3e868adabdd09a.rmeta: /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/lib.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/macros.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/ulps.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/ulps_eq.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/eq.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/ratio.rs
+
+/home/m4r10/Desktop/rustlings/target/debug/deps/libfloat_cmp-9e3e868adabdd09a.rlib: /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/lib.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/macros.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/ulps.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/ulps_eq.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/eq.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/ratio.rs
+
+/home/m4r10/Desktop/rustlings/target/debug/deps/float_cmp-9e3e868adabdd09a.d: /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/lib.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/macros.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/ulps.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/ulps_eq.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/eq.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/ratio.rs
+
+/home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/lib.rs:
+/home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/macros.rs:
+/home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/ulps.rs:
+/home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/ulps_eq.rs:
+/home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/eq.rs:
+/home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/ratio.rs:

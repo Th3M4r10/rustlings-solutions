@@ -1,0 +1,13 @@
+/home/m4r10/Desktop/rustlings/target/debug/deps/libnet2-c92d8e82ad804443.rmeta: /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/lib.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/tcp.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/udp.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/socket.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/ext.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/utils.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/sys/unix/mod.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/sys/unix/impls.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/unix.rs
+
+/home/m4r10/Desktop/rustlings/target/debug/deps/net2-c92d8e82ad804443.d: /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/lib.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/tcp.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/udp.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/socket.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/ext.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/utils.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/sys/unix/mod.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/sys/unix/impls.rs /home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/unix.rs
+
+/home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/lib.rs:
+/home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/tcp.rs:
+/home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/udp.rs:
+/home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/socket.rs:
+/home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/ext.rs:
+/home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/utils.rs:
+/home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/sys/unix/mod.rs:
+/home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/sys/unix/impls.rs:
+/home/m4r10/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/unix.rs:
